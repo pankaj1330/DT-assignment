@@ -40,6 +40,7 @@ body{
 .dynamic-box .car{
     width: 80%;
     margin: auto;
+    margin-top:0;
 }
 .dynamic-box .car img{
     width: 100%;
