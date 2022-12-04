@@ -1,5 +1,5 @@
 # DT-assignment
-This is a deepthought assignment - make a dynamic webpage using js
+This is a deepthought assignment - make a dynamic webpage using js.
 deepthought - https://deepthought.education/
 
 live on - https://pankaj1330.github.io/DT-assignment/
